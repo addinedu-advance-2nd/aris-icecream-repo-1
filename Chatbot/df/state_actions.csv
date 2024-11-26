@@ -1,0 +1,12 @@
+state_action_id,episode_id,product_id,state,action,reward
+1,1,1,Product A,buy,10.0
+2,1,1,Product A,buy,4.0
+3,2,1,Product A,buy,7.0
+4,3,1,Product A,buy,6.0
+5,4,1,Product A,buy,8.0
+6,5,1,Product A,buy,10.0
+7,6,1,Product A,buy,4.0
+8,7,1,Product A,buy,9.0
+9,8,1,Product A,buy,7.0
+10,9,1,Product A,buy,4.0
+11,10,1,Product A,buy,6.0

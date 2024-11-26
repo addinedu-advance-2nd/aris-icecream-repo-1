@@ -1,0 +1,7 @@
+Flavor,Topping,Actual Sales,Predicted Sales
+Banana,Lotus,150,0.0053537237
+Chocolate,Rainbow,200,0.31215435
+Strawberry,Oreo,180,0.6207405
+Banana,Rainbow,130,0.18309867
+Chocolate,Lotus,210,0.14645468
+Strawberry,Lotus,170,0.28568795
